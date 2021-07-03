@@ -3,6 +3,7 @@ package javastudy;
 public class CarExam {
 
 	public static void main(String[] args) {
+		//생성자 추가로 인한 오류발생
 		Car c1 = new Car();
 		Car c2 = new Car();
 		
