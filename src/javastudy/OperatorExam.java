@@ -11,7 +11,7 @@ public class OperatorExam {
 		int b2 = 0;
 		if(5 < 4) {
 			b2 = 50;
-		}else {
+		} else {
 			b2 = 40;
 		}
 		System.out.println(b2);
