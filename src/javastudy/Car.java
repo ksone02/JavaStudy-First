@@ -18,6 +18,7 @@ public class Car {
 //		this.name = "이름업소용";
 //		this.number = 0; -> 아래와 중복, 비효율적
 		this("이름없음", 0); //아래에 있는 생성자 호출됨.
+		System.out.println("Car의 기본생성자입니다.");
 	}
 	
 	public Car(String name, int number) {
